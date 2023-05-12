@@ -1,0 +1,19 @@
+
+/* 所有 class 是title 的都會改變 */
+.title{
+    color:rgb(153, 40, 20);
+}
+/* 所有 id 是 main-title 的都會改變 */
+#main-title{
+    text-decoration:underline;
+}
+
+/* *所有元件都會改變 */
+#phone{
+    font-size: 1px;
+}
+
+#address{
+    font-size: 50px;
+    color:rgb(65, 36, 190);
+}
